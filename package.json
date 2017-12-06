@@ -1,0 +1,12 @@
+{
+  "name" : "file_Info",
+  "version" : "0.0.1",
+  "description" : "Application to display file information and convert file size to human understandable units",
+},
+
+
+"repository" : 
+{
+  "type": "git",
+    "url": "git+https://https://github.com/teddypee/File_Info"
+}
